@@ -46,6 +46,7 @@
   "devDependencies": {
     "@types/react": "^17.0.40",
     "@types/react-dom": "^17.0.13",
+    "@types/react-modal": "^3.13.1",
     "@types/react-router-dom": "^5.3.3",
     "@types/styled-components": "^5.1.24",
     "json-server": "^0.16.3",
